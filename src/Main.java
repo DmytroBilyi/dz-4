@@ -6,5 +6,6 @@ public class Main {
       //  String o = String.format("~~~%s~~~", second.printMethod());
      //   System.out.println(o);
 
+
     }
 }
