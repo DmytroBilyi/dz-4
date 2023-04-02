@@ -3,8 +3,6 @@ public class Second {
         int a = 5;
         String str = String.format("---<%d>---", a);
         return str;
-
-
     }
 
 }
