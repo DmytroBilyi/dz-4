@@ -5,6 +5,5 @@ public class Main {
         Second second = new Second();
         String o = String.format("~~~%s~~~", second.printMethod());
         System.out.println(o);
-
     }
 }
